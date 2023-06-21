@@ -1,4 +1,4 @@
-import { lazy, useCallback } from "react";
+import { lazy } from "react";
 
 export const MainPageAsync = lazy(
   () =>
